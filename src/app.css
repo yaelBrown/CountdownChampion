@@ -12,3 +12,8 @@
   display: inline;
   margin: .5em;
 }
+
+.Deadline-input {
+  font-size: 25px;
+  margin: 5px;
+}
